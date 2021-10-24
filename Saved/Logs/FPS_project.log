@@ -1279,3 +1279,124 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.24-12.43.28:959][822]Cmd: SELECT NONE
 [2021.10.24-12.43.30:954][916]SourceControl: Source control is disabled
 [2021.10.24-12.43.30:954][916]LogSlate: Window 'Source Control Login' being destroyed
+[2021.10.24-12.48.19:465][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.10.24-12.48.19:509][840]LogSavePackage: Moving '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/ThirdPersonExampleMap_Auto2383E9BA34A37794F0ECC918E00FD4E7D.tmp' to '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.10.24-12.48.19:519][840]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.073
+[2021.10.24-12.48.19:519][840]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2021.10.24-13.02.52:050][508]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.24-13.03.15:244][106]LogSlate: Took 0.004482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.10.24-13.04.00:784][ 12]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.10.24-13.04.00:812][ 12]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-13.04.00:812][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-13.04.03:594][148]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.10.24-13.04.03:607][148]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.10.24-13.04.05:987][198]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1561)].
+[2021.10.24-13.04.05:987][198]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2021.10.24-13.04.05:990][198]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.10.24-13.04.06:022][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.10.24-13.04.06:055][198]LogSavePackage: Moving '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/ThirdPersonExampleMap_Auto3475748A84138107CB4878E84E43D630F.tmp' to '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.10.24-13.04.06:063][198]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.059
+[2021.10.24-13.04.06:063][198]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2021.10.24-13.04.06:063][198]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.10.24-13.04.06:082][198]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.10.24-13.04.06:082][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.10.24-13.04.06:122][198]LogSavePackage: Moving '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/ThirdPersonCharacter_Auto335D0CC60479B883C0B3BF3ACC9B939E8.tmp' to '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2021.10.24-13.04.06:125][198]LogFileHelpers: Auto-saving content packages took 0.062
+[2021.10.24-13.04.18:304][624]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> FpsHealth
+[2021.10.24-13.04.18:348][624]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FpsHealth.SKEL_FpsHealth_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2021.10.24-13.04.18:348][624]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FpsHealth.FpsHealth_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2021.10.24-13.04.18:348][624]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FpsHealth.FpsHealth:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2021.10.24-13.04.18:348][624]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FpsHealth.FpsHealth:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2021.10.24-13.04.18:348][624]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FpsHealth.FpsHealth:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.PackageMetaData'
+[2021.10.24-13.04.18:391][624]LogSavePackage: Moving '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/FpsHealth6083692A4EC70FCA3C494C9471437C06.tmp' to '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Content/ThirdPersonBP/Blueprints/FpsHealth.uasset'
+[2021.10.24-13.04.18:506][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.10.24-13.04.18:548][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.24-13.04.18:571][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.10.24-13.04.18:651][624]AssetCheck: New page: Asset Save: FpsHealth
+[2021.10.24-13.04.18:651][624]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FpsHealth.FpsHealth
+[2021.10.24-13.04.20:114][668]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FpsHealth.FpsHealth
+[2021.10.24-13.05.29:986][180]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.24-13.06.02:124][755]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.24-13.09.18:286][ 50]LogSavePackage: Moving '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/FpsHealth63D97D344F02589386B1E682C75BE950.tmp' to '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Content/ThirdPersonBP/Blueprints/FpsHealth.uasset'
+[2021.10.24-13.09.18:353][ 50]AssetCheck: New page: Asset Save: FpsHealth
+[2021.10.24-13.09.18:353][ 50]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FpsHealth.FpsHealth
+[2021.10.24-13.09.19:501][ 79]LogSlate: Window 'FpsHealth' being destroyed
+[2021.10.24-13.09.19:587][ 79]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-13.09.19:588][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-13.09.19:624][ 79]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-13.09.19:624][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-13.09.36:438][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.24-13.11.34:613][827]LogSavePackage: Moving '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/ThirdPersonCharacter27A8B715464557FC77790EB391349CD9.tmp' to '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.10.24-13.11.34:669][827]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.10.24-13.11.34:670][827]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.24-13.12.27:040][139]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.10.24-13.12.27:088][139]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-13.12.27:088][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-13.12.36:885][618]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.24-13.12.36:918][618]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.24-13.12.36:921][618]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.10.24-13.12.36:966][618]LogPlayLevel: [PlayLevel] Compiling FpsHealth before play...
+[2021.10.24-13.12.37:116][618]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2021.10.24-13.12.37:119][618]LogPlayLevel: PlayLevel: Blueprint regeneration took 201 ms (2 blueprints)
+[2021.10.24-13.12.37:119][618]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 25, 2021, 5:12:37 AM)
+[2021.10.24-13.12.37:120][618]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.24-13.12.37:135][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015482s)
+[2021.10.24-13.12.37:136][618]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.24-13.12.37:137][618]LogPlayLevel: PIE: World Init took: (0.001533s)
+[2021.10.24-13.12.37:137][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017228s)
+[2021.10.24-13.12.37:196][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.10.24-13.12.37:197][618]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.10.24-13.12.37:197][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.24-13.12.37:197][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.24-13.12.37:197][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.24-13.12.37:197][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.24-13.12.37:197][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.24-13.12.37:197][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.24-13.12.37:197][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.24-13.12.37:197][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.24-13.12.37:197][618]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.24-13.12.37:197][618]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.24-13.12.37:204][618]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (AWEI T13 Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.10.24-13.12.37:204][618]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.24-13.12.37:204][618]LogAudioMixer: Display: 1: FrontRight
+[2021.10.24-13.12.37:219][618]LogAudioMixer: Display: Using Audio Device Headset (AWEI T13 Hands-Free AG Audio)
+[2021.10.24-13.12.37:219][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.24-13.12.37:219][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.24-13.12.37:220][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.24-13.12.37:220][618]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.24-13.12.37:220][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.24-13.12.37:220][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.24-13.12.37:240][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.24-13.12.37:240][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.24-13.12.37:240][618]LogInit: FAudioDevice initialized.
+[2021.10.24-13.12.37:240][618]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.10.24-13.12.37:257][618]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.24-13.12.37:261][618]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.10.24-21.12.37
+[2021.10.24-13.12.37:262][618]LogWorld: Bringing up level for play took: 0.002170
+[2021.10.24-13.12.37:262][618]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.10.24-13.12.37:266][618]PIE: Server logged in
+[2021.10.24-13.12.37:267][618]PIE: Play in editor total start time 0.368 seconds.
+[2021.10.24-13.13.10:693][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.24-13.13.10:693][ 34]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.24-13.13.10:694][ 34]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-13.13.10:695][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-13.13.10:711][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.24-13.13.10:718][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-13.13.10:751][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.24-13.13.10:751][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.24-13.13.10:754][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.24-13.13.10:803][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.10.24-13.13.10:875][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.10.24-13.13.13:779][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.24-13.13.25:008][389]LogSavePackage: Moving '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/ThirdPersonCharacter96143AAF4E0DF115DF8346AEAF25D2B7.tmp' to '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.10.24-13.13.25:069][389]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.10.24-13.13.25:070][389]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.24-13.13.32:980][609]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.10.24-13.13.33:048][609]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-13.13.33:048][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-13.13.35:178][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.10.24-13.13.35:251][687]LogSavePackage: Moving '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/ThirdPersonExampleMapF67055E349A474C804BE61BC83EF89F6.tmp' to '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.24-13.13.35:573][687]LogSavePackage: Moving '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Saved/ThirdPersonExampleMap_BuiltData659F4CA44A34EAB4A336D8B93C8F3D9F.tmp' to '../../../../../../Users/limi/Documents/Unreal Projects/FPS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.24-13.13.35:616][687]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.24-13.13.35:616][687]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.24-13.13.35:616][687]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
